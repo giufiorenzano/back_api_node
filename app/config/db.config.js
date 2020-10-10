@@ -1,8 +1,8 @@
 module.exports = {
     HOST: "localhost",
     USER: "root",
-    PASSWORD: "ed2020",
-    DB: "db_posts",
+    PASSWORD: "140267",
+    DB: "gitexemplo",
     dialect: "mysql",
     pool: {
       max: 5,
